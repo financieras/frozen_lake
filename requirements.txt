@@ -1,0 +1,16 @@
+# Paquetes esenciales
+numpy>=1.21.0
+colorama>=0.4.4  # Para colores en terminal
+
+# Desarrollo y pruebas
+pytest>=7.0.0
+pytest-cov>=3.0.0
+
+# Visualización y análisis (Jupyter Lab + gráficos)
+jupyterlab>=3.0.0  # Alternativa moderna a Jupyter Notebook
+matplotlib>=3.5.0  # Para gráficos de rendimiento
+seaborn>=0.11.0    # Mejores visualizaciones estadísticas
+tqdm>=4.62.0       # Barras de progreso (útil para entrenamiento)
+
+# Optimización (opcional)
+pandas>=1.3.0      # Para análisis de datos/recompensas
